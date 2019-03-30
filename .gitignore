@@ -1,27 +1,10 @@
-*.class
-*.DS_Store
-hs_err_pid*
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-
-#Gradle temporary files
+*class
+.DS_Store
+.classpath
+.project
+.settings/
 target/
+Servers/
 build/
-
-#Eclipse files
-**/.project
-**/.classpath
-**/.settings/
-**/bin/
-**/.tern-project
-
-#IntelliJ files
-**/*.iml
-**/.idea
-**/.gradle
+.metadata/
+.recommenders/
